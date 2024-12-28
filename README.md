@@ -9,4 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevendraCollage&theme=highcontrast&hide_border=false)<br/>
 
 # Visitors
-![](https://komarev.com/ghpvc/?username=yashkhokhar28&style=plastic&color=blue)
+![](https://komarev.com/ghpvc/?username=devendracollage&style=plastic&color=blue)
