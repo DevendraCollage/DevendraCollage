@@ -3,7 +3,8 @@
 <br><br>🚀 Let's explore the limitless possibilities of technology together! 🤖<br>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/iconsi=js,java,py,c,css,html,react,nodejs,express,redux,mongodb,mysql,git,jest,tailwind,bootstrap,materialui,babel,vite,vscode,webpack,postman&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons
+i=js,java,py,c,css,html,react,nodejs,express,redux,mongodb,mysql,git,jest,tailwind,bootstrap,materialui,babel,vite,vscode,webpack,postman&perline=11)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevendraCollage&theme=highcontrast&hide_border=false)<br/>
