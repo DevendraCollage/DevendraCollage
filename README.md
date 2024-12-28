@@ -8,5 +8,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevendraCollage&theme=highcontrast&hide_border=false)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=DevendraCollage&icon=0&color=0)](https://visitcount.itsvg.in)
+# Visitors
+![](https://komarev.com/ghpvc/?username=yashkhokhar28&style=plastic&color=blue)
